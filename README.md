@@ -1,2 +1,2 @@
 # parkinson-diesease-detection
-Machine learning program that detects Parkinson's disease using Support Vector Machines
+Parkinson's disease is a progressive nervous system disorder that affects movement leading to shaking, stiffness, and difficulty with walking, balance and coordination.  
